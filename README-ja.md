@@ -163,7 +163,7 @@ uvx --from git+https://github.com/github/spec-kit.git@vX.Y.Z specify init --here
 /speckit.implement
 ```
 
-詳細なステップバイステップの手順については、[包括的なガイド](./spec-driven.md)を参照してください。
+詳細なステップバイステップの手順については、[包括的なガイド](./spec-driven-ja.md)を参照してください。
 ## 📽️ ビデオ概要
 
 Spec Kit を実際の動作で見たいですか？[ビデオ概要](https://www.youtube.com/watch?v=a9eR1xsfvHg&pp=0gcJCckJAYcqIYzv)を視聴してください！
